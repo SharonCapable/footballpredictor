@@ -1,0 +1,2 @@
+home_team,away_team,predicted_score,home_goals,away_goals,outcome,winner,total_goals,over_2_5,both_score,confidence,prediction_date,match_date,actual_score,actual_home_goals,actual_away_goals,correct_outcome,goal_error
+Arsenal,Liverpool,1-0,1,0,Home Win,Arsenal,1,False,False,65.0%,2025-11-01T19:29:38.222682,2025-11-15T00:00:00,2-2,2.0,2.0,False,3.0
